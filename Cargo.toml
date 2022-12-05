@@ -10,4 +10,4 @@ authors = ["arnabthakuria678@gmail.com"]
 termion = "1"
 log = "0.4.17"
 simple-logging = "2.0.2"
-
+unicode-segmentation = "1"
